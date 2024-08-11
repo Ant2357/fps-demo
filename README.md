@@ -4,6 +4,7 @@
 ## TODO
 - [x] Carbon Engine の導入と設定
 - [x] World MAP の設定
+- [x] 暫定的かつシンプルな簡易タイトル画面を追加
 
 ## Usage
 Roblox Studio で fps-demo.rbxl を開くだけです。
